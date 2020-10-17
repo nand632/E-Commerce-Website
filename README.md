@@ -1,3 +1,6 @@
 # E-Commerce-Website
  Practice
-Awsome Work!!
+Awsome Work!! 
+
+Minimum Requirement:
+Browser
